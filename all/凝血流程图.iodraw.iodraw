@@ -133,13 +133,6 @@
             <mxPoint x="340" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-44" target="YhOF1UpB8yOIJ0JcrWhs-47">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="342" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats N=66,009 26,188 45,667" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="254" y="242.5" width="176" height="37.5" as="geometry" />
         </mxCell>
