@@ -176,6 +176,9 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-62" value="IVW meta-analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="470" y="350" width="150" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
