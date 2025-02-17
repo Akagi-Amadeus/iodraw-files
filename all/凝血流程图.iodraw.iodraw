@@ -106,6 +106,12 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-29" value="Processed EUR,WAS population GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="616" y="141.25" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="420" as="sourcePoint" />
+            <mxPoint x="470" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
