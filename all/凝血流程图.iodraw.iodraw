@@ -58,6 +58,9 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=8.25;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="251.5" y="82" width="22" height="17" as="geometry" />
         </mxCell>
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="497" y="52" width="120" height="48" as="geometry" />
+        </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=8.25;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="399" y="82" width="22" height="17" as="geometry" />
         </mxCell>
@@ -72,9 +75,6 @@
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-16" value="GWAS sumstats N~7500" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="266.5" y="131" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="497" y="52" width="120" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
