@@ -125,7 +125,7 @@
           <mxGeometry x="251.5" y="193" width="179" height="27" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-40" value="Summary statistics" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-90" width="150" height="30" as="geometry" />
+          <mxGeometry x="294" y="-60" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
