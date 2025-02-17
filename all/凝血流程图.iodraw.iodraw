@@ -94,11 +94,11 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-24" value="Standardization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="578" y="121.25" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="140" width="119" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-26" value="BBJ GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="489" y="141.25" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="421" y="220" width="119" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
