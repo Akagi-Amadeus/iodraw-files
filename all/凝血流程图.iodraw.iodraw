@@ -85,9 +85,11 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-21" value="EUR, WAS population GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="616" y="51" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-62" target="YhOF1UpB8yOIJ0JcrWhs-57">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-30" target="YhOF1UpB8yOIJ0JcrWhs-57">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="672" y="374" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
@@ -170,15 +172,6 @@
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-59" value="Muti-ancestry GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="271" y="363.75" width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-30" target="YhOF1UpB8yOIJ0JcrWhs-62">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="672" y="170" as="sourcePoint" />
-            <mxPoint x="434" y="374" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="672" y="374" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-62" value="IVW meta-analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="470" y="350" width="150" height="20" as="geometry" />
