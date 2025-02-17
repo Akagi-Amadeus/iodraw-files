@@ -94,8 +94,8 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-24" value="Standardization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="578" y="121.25" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-25" value="BBJ GWAS&lt;div&gt;N=58,110 18,348 37,767&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-100" width="104.75" height="20" as="geometry" />
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-25" value="BBJ GWAS&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-100" width="104.75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
