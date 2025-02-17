@@ -83,7 +83,7 @@
           <mxGeometry x="505.25" y="66" width="104.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-21" value="EUR population GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-140" width="104.75" height="20" as="geometry" />
+          <mxGeometry x="440" y="-150" width="104.75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
