@@ -127,10 +127,13 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-40" value="IVW meta-analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="288" y="196.5" width="106" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="350" as="sourcePoint" />
-            <mxPoint x="470" y="300" as="targetPoint" />
+            <mxPoint x="360" y="570" as="sourcePoint" />
+            <mxPoint x="360.33" y="593" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="340" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
