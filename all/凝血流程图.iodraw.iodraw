@@ -55,10 +55,8 @@
         <mxCell id="gmk2Dq0UVks92Hq1j4s8-34" value="CSTC participants" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="340" y="51" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;container=0;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="200" y="520" width="50" height="40" as="geometry">
-            <mxRectangle x="200" y="520" width="70" height="100" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-12" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="535" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
