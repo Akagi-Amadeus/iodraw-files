@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="254" y="242.5" width="176.5" height="35" as="geometry" />
+          <mxGeometry x="254" y="242.5" width="176" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
