@@ -149,10 +149,10 @@
           <mxGeometry x="320" y="585" width="119.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="456.5" y="520" width="121.5" height="30" as="geometry" />
+          <mxGeometry x="457.5" y="250" width="121.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-51" value="Fine-mapping analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="456.5" y="525" width="119.5" height="20" as="geometry" />
+          <mxGeometry x="457.5" y="255" width="119.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
