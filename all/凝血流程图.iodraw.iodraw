@@ -137,10 +137,10 @@
           <mxGeometry x="254" y="242.5" width="176" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="216.5" width="94" height="30" as="geometry" />
+          <mxGeometry x="460" y="216.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-47" value="Risk loci charaterizing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="430.5" y="221.5" width="150" height="20" as="geometry" />
+          <mxGeometry x="369.5" y="590" width="119.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
