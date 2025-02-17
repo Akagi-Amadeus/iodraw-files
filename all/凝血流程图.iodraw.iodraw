@@ -182,8 +182,8 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="417.5" width="130" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-67" value="Summary statistics" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="330" y="550" width="150" height="30" as="geometry" />
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-67" value="Risk loci charaterizing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="254" y="540" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
