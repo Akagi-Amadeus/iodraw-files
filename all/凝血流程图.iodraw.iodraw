@@ -85,6 +85,9 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-21" value="EUR, WAS population GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="616" y="51" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="616" y="140" width="114" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=8.25;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="607" y="102" width="22" height="17" as="geometry" />
         </mxCell>
@@ -102,9 +105,6 @@
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-29" value="Processed EUR,WAS population GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="612.88" y="141.25" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-30" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="616" y="140" width="114" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
