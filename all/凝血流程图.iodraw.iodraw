@@ -147,7 +147,7 @@
           <mxGeometry x="254" y="242.5" width="176" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415.5" y="560" width="121.5" height="30" as="geometry" />
+          <mxGeometry x="251.5" y="585" width="121.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="495" width="83" height="50" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry x="421" y="640" width="121.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-51" value="Fine-mapping analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="417.5" y="565" width="119.5" height="20" as="geometry" />
+          <mxGeometry x="253.5" y="590" width="119.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=west;" vertex="1" parent="1">
           <mxGeometry x="430.5" y="212.5" width="19.5" height="105" as="geometry" />
