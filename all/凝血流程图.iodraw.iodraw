@@ -74,7 +74,7 @@
           <mxGeometry x="193" y="101" width="297" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-15" value="1. Quality Control 2. Imputation 3. GLM model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="214" y="97" width="236" height="25.5" as="geometry" />
+          <mxGeometry x="224.5" y="97.75" width="236" height="25.5" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-16" value="GWAS sumstats N~7500" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="284.75" y="135.5" width="113.5" height="19" as="geometry" />
