@@ -112,7 +112,7 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HumzKH7u7ERblkjx4anl-47" value="&lt;i&gt;&amp;nbsp;3,776&amp;nbsp;had diseases related to&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;coagulation function&lt;/i&gt;&lt;div&gt;&lt;i&gt;366 without available test conducted before surgery&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
+        <mxCell id="HumzKH7u7ERblkjx4anl-47" value="&lt;i&gt;&amp;nbsp;3,776&amp;nbsp;had diseases related to&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;coagulation function&lt;/i&gt;&lt;div&gt;&lt;i&gt;366 with coagulation biomarkers data out of normal range&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
           <mxGeometry x="400" y="530" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
