@@ -155,13 +155,8 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458.5" y="290" width="121.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-49">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-49" value="Consensus-based&amp;nbsp;&lt;div&gt;gene mapping&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="458.5" y="295" width="119.5" height="20" as="geometry" />
+          <mxGeometry x="360" y="660" width="119.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="457.5" y="250" width="121.5" height="30" as="geometry" />
