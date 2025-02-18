@@ -189,10 +189,10 @@
           <mxGeometry x="450" y="225" width="106" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-76" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="600" width="99.75" height="50" as="geometry" />
+          <mxGeometry x="564.0699999999999" y="270" width="99.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-77" value="MAGMA enrichment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="481.94" y="615" width="95.87" height="20" as="geometry" />
+          <mxGeometry x="566.01" y="285" width="95.87" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
