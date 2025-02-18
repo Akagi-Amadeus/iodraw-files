@@ -22,9 +22,6 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-14" value="&lt;i&gt;32 withdrew&lt;/i&gt;&lt;div&gt;&lt;i&gt;8,403 without imputed genotype data or&amp;nbsp; failed the quality control&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
           <mxGeometry x="400" y="250" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HumzKH7u7ERblkjx4anl-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HumzKH7u7ERblkjx4anl-15" target="HumzKH7u7ERblkjx4anl-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-15" value="12,956 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="330" width="170" height="28" as="geometry" />
         </mxCell>
