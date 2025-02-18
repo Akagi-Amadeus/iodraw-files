@@ -122,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fddfd4;" vertex="1" parent="1">
           <mxGeometry x="251.5" y="193" width="179" height="27" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-40" value="IVW meta-analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
