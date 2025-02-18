@@ -19,7 +19,7 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HumzKH7u7ERblkjx4anl-14" value="&lt;i&gt;32 withdrew&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
+        <mxCell id="HumzKH7u7ERblkjx4anl-14" value="&lt;i&gt;32 withdrew&lt;/i&gt;&lt;div&gt;&lt;i&gt;without imputed genotype data or&amp;nbsp; failed the quality control&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
           <mxGeometry x="390" y="263" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
