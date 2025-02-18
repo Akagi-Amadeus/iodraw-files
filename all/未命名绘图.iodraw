@@ -67,10 +67,13 @@
           <mxGeometry x="405" y="639" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="632" width="190" height="50" as="geometry" />
+          <mxGeometry x="620" y="628" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-33" value="7,840 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="790" y="642" width="170" height="28" as="geometry" />
+          <mxGeometry x="630" y="638" width="170" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="HumzKH7u7ERblkjx4anl-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
