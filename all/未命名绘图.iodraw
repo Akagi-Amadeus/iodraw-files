@@ -51,8 +51,8 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HumzKH7u7ERblkjx4anl-17" target="HumzKH7u7ERblkjx4anl-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="265" y="580" />
-              <mxPoint x="715" y="580" />
+              <mxPoint x="265" y="640" />
+              <mxPoint x="715" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -74,46 +74,46 @@
           <mxGeometry x="400" y="370" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="630" width="190" height="50" as="geometry" />
+          <mxGeometry x="170" y="702" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-29" value="7,899 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="640" width="170" height="28" as="geometry" />
+          <mxGeometry x="180" y="712" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="629" width="190" height="50" as="geometry" />
+          <mxGeometry x="395" y="701" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-31" value="7,900 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="405" y="639" width="170" height="28" as="geometry" />
+          <mxGeometry x="405" y="711" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="628" width="190" height="50" as="geometry" />
+          <mxGeometry x="620" y="700" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-33" value="7,840 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="630" y="638" width="170" height="28" as="geometry" />
+          <mxGeometry x="630" y="710" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="213.75" y="700" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="213.75" y="772" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-36" value="PT" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="701" width="70" height="28" as="geometry" />
+          <mxGeometry x="230" y="773" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="438.75" y="700" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="438.75" y="772" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-39" value="aPTT" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="455" y="701" width="70" height="28" as="geometry" />
+          <mxGeometry x="455" y="773" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="663.75" y="699" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="663.75" y="771" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-41" value="Fibrinogen" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="700" width="70" height="28" as="geometry" />
+          <mxGeometry x="680" y="772" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="490" width="190" height="80" as="geometry" />
+          <mxGeometry x="680" y="358" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-47" value="&lt;i&gt;&amp;nbsp;3,776 coagulation biomarkers data not measured&lt;/i&gt;&lt;div&gt;&lt;i&gt;366 without available test conducted before surgery&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
-          <mxGeometry x="500" y="490" width="180" height="70" as="geometry" />
+          <mxGeometry x="690" y="358" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
