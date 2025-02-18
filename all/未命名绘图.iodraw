@@ -37,6 +37,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HumzKH7u7ERblkjx4anl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HumzKH7u7ERblkjx4anl-17" target="HumzKH7u7ERblkjx4anl-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="460" width="190" height="50" as="geometry" />
         </mxCell>
@@ -87,7 +90,7 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="663.75" y="699" width="102.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HumzKH7u7ERblkjx4anl-41" value="PT" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
+        <mxCell id="HumzKH7u7ERblkjx4anl-41" value="Fibrinogen" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
           <mxGeometry x="680" y="700" width="70" height="28" as="geometry" />
         </mxCell>
       </root>
