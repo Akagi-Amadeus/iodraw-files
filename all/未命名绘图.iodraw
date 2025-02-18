@@ -43,16 +43,16 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HumzKH7u7ERblkjx4anl-17" target="HumzKH7u7ERblkjx4anl-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="265" y="580" />
-              <mxPoint x="490" y="580" />
+              <mxPoint x="265" y="560" />
+              <mxPoint x="490" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HumzKH7u7ERblkjx4anl-17" target="HumzKH7u7ERblkjx4anl-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="265" y="560" />
-              <mxPoint x="715" y="560" />
+              <mxPoint x="265" y="550" />
+              <mxPoint x="715" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
