@@ -108,7 +108,7 @@
           <mxGeometry x="578" y="121.25" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-26" value="Processed BBJ GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="501" y="144.38" width="111" height="21.25" as="geometry" />
+          <mxGeometry x="504.5" y="142.19" width="112" height="25.62" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-29" value="Processed EUR,WAS population GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="615" y="140" width="115" height="30" as="geometry" />
