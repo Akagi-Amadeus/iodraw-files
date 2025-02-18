@@ -80,7 +80,7 @@
           <mxGeometry x="284.75" y="135.5" width="113.5" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-20" value="BBJ GWAS&lt;div&gt;N=58,110&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;37,767&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 18,348&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="508.13" y="64.5" width="104.75" height="20" as="geometry" />
+          <mxGeometry x="500.5" y="64.5" width="104.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-21" value="EUR, WAS population GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="621" y="59" width="104" height="31" as="geometry" />
@@ -143,7 +143,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-44" target="YhOF1UpB8yOIJ0JcrWhs-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats N=66,009 26,188 45,667" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;fillColor=#EBD2CF;" vertex="1" parent="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats N=66,009 45,667 26,188&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;fillColor=#EBD2CF;" vertex="1" parent="1">
           <mxGeometry x="254" y="242.5" width="176" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=west;" vertex="1" parent="1">
