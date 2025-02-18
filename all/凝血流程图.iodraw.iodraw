@@ -167,7 +167,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-67" value="Risk loci charaterizing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="237.25" y="425" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#deecf8;" vertex="1" parent="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-72" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cf898b;" vertex="1" parent="1">
           <mxGeometry x="456.25" y="270" width="99.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-49" value="Consensus-based&amp;nbsp;&lt;div&gt;gene mapping&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -188,7 +188,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-47" value="Risk loci charaterizing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="450" y="225" width="106" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#deecf8;" vertex="1" parent="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cf898b;" vertex="1" parent="1">
           <mxGeometry x="563" y="270" width="99.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-77" value="MAGMA enrichment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
