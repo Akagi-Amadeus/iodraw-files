@@ -79,7 +79,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-16" value="GWAS sumstats N~7500" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="284.75" y="135.5" width="113.5" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-20" value="BBJ GWAS&lt;div&gt;N=58,110 18,348 37,767&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-20" value="BBJ GWAS&lt;div&gt;N=58,110&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;37,767&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;18,348&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="508.13" y="64.5" width="104.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-21" value="EUR, WAS population GWAS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
