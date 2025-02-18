@@ -19,6 +19,12 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-7" value="&amp;nbsp;participants included in the CSAC" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="323" width="170" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HumzKH7u7ERblkjx4anl-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HumzKH7u7ERblkjx4anl-14" value="21,391 participants included in the CSAC and CSTC" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="243" width="170" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
