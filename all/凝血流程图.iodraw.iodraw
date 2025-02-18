@@ -150,10 +150,10 @@
           <mxGeometry x="415.5" y="560" width="121.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="267" y="530" width="83" height="50" as="geometry" />
+          <mxGeometry x="460" y="212.5" width="83" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-47" value="Risk loci charaterizing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="265.5" y="540" width="106" height="20" as="geometry" />
+          <mxGeometry x="448.5" y="227.5" width="106" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-49" value="Consensus-based&amp;nbsp;&lt;div&gt;gene mapping&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="290.5" y="650" width="119.5" height="20" as="geometry" />
