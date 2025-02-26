@@ -152,7 +152,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-57" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#DEECF8;" parent="1" vertex="1">
           <mxGeometry x="251.5" y="357.5" width="182" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-59" value="Muti-ancestry GWAS&lt;div&gt;N=110,576&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;82,537&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;170,007&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-59" value="Muti-ancestry GWAS&lt;div&gt;N=196,931&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;82,537 168,980&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="271" y="363.75" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-62" value="IVW meta-analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
