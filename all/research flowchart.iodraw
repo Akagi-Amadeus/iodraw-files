@@ -197,8 +197,8 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-81" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="365.75" y="318.75" width="20" height="167.5" as="geometry" />
         </mxCell>
-        <mxCell id="C0YrNIM-QQHXKdgDtTVP-1" value="Cross-ancestry fine-mapping" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="770" y="260" width="120" height="20" as="geometry" />
+        <mxCell id="C0YrNIM-QQHXKdgDtTVP-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9FC6E3;" vertex="1" parent="1">
+          <mxGeometry x="830" y="290" width="130" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
