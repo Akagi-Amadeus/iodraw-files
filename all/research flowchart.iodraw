@@ -162,7 +162,7 @@
           <mxGeometry x="235" y="417.5" width="105" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-66" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9FC6E3;" parent="1" vertex="1">
-          <mxGeometry x="351" y="417.5" width="119" height="35" as="geometry" />
+          <mxGeometry x="351" y="417.5" width="109" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-67" value="Risk loci charaterizing" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="244" y="425" width="82.75" height="20" as="geometry" />
@@ -173,7 +173,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-49" value="Consensus-based&amp;nbsp;&lt;div&gt;gene mapping&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="285" width="107.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-68" value="Cross-ancestry fine-mapping" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-68" value="Cross-ancestry&amp;nbsp;&lt;div&gt;fine-mapping&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="350" y="425" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-73" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CF898B;" parent="1" vertex="1">
