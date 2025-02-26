@@ -200,7 +200,7 @@
         <mxCell id="C0YrNIM-QQHXKdgDtTVP-3" value="Polygenic score prediction" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="475" y="425" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C0YrNIM-QQHXKdgDtTVP-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;size=0.5;" vertex="1" parent="1">
+        <mxCell id="C0YrNIM-QQHXKdgDtTVP-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;size=0.29349999999999454;" vertex="1" parent="1">
           <mxGeometry x="385.87" y="249.75" width="20" height="305.5" as="geometry" />
         </mxCell>
       </root>
