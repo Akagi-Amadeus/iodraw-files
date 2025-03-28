@@ -116,6 +116,12 @@
         <mxCell id="LB8pqVijnyk0-pS6fZi0-9" value="&lt;div&gt;&lt;i&gt;191 with coagulation markers level beyond the range of&amp;nbsp; three standard&amp;nbsp; deviations&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
           <mxGeometry x="515" y="650" width="175" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LB8pqVijnyk0-pS6fZi0-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="580" as="sourcePoint" />
+            <mxPoint x="360" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
