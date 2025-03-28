@@ -98,6 +98,9 @@
             <mxPoint x="265" y="564.58" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LB8pqVijnyk0-pS6fZi0-2" value="&lt;i&gt;1 withdrew&lt;/i&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;i&gt;4,142 without preoperative&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;coagulation markers data&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
+          <mxGeometry x="710" y="430" width="180" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
