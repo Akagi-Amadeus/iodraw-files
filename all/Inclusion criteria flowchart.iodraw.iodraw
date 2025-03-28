@@ -43,7 +43,7 @@
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="HumzKH7u7ERblkjx4anl-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="261" y="405" as="sourcePoint" />
+            <mxPoint x="265" y="405" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-20" value="&lt;i&gt;1 withdraw&lt;/i&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;i&gt;4,142 without preoperative&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;coagulation markers data&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" parent="1" vertex="1">
