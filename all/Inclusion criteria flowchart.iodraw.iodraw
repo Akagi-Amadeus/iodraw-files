@@ -51,40 +51,40 @@
           <mxGeometry x="370" y="362" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0C5E0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="712" width="190" height="50" as="geometry" />
+          <mxGeometry x="170" y="732" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-29" value="7,899 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" parent="1" vertex="1">
-          <mxGeometry x="180" y="722" width="170" height="28" as="geometry" />
+          <mxGeometry x="180" y="742" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0C5E0;" parent="1" vertex="1">
-          <mxGeometry x="395" y="711" width="190" height="50" as="geometry" />
+          <mxGeometry x="395" y="731" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-31" value="7,900 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" parent="1" vertex="1">
-          <mxGeometry x="405" y="721" width="170" height="28" as="geometry" />
+          <mxGeometry x="405" y="741" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0C5E0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="710" width="190" height="50" as="geometry" />
+          <mxGeometry x="620" y="730" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-33" value="7,840 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" parent="1" vertex="1">
-          <mxGeometry x="630" y="720" width="170" height="28" as="geometry" />
+          <mxGeometry x="630" y="740" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#7b9cc9;" parent="1" vertex="1">
-          <mxGeometry x="213.75" y="782" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="213.75" y="802" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-36" value="PT" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="230" y="783" width="70" height="28" as="geometry" />
+          <mxGeometry x="230" y="803" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#7B9CC9;" parent="1" vertex="1">
-          <mxGeometry x="438.75" y="782" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="438.75" y="802" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-39" value="aPTT" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="455" y="783" width="70" height="28" as="geometry" />
+          <mxGeometry x="455" y="803" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#7B9CC9;" parent="1" vertex="1">
-          <mxGeometry x="663.75" y="781" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="663.75" y="801" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-41" value="Fibrinogen" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="680" y="782" width="70" height="28" as="geometry" />
+          <mxGeometry x="680" y="802" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" parent="1" vertex="1">
           <mxGeometry x="390" y="540" width="190" height="50" as="geometry" />
@@ -100,26 +100,26 @@
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="LB8pqVijnyk0-pS6fZi0-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="265" y="660" as="sourcePoint" />
+            <mxPoint x="265" y="680" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" vertex="1" parent="1">
-          <mxGeometry x="50" y="630" width="190" height="60" as="geometry" />
+          <mxGeometry x="50" y="650" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-5" value="&lt;div&gt;&lt;i&gt;132 with coagulation markers level beyond the range of&amp;nbsp; three standard&amp;nbsp; deviations&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
-          <mxGeometry x="55" y="630" width="185" height="50" as="geometry" />
+          <mxGeometry x="55" y="650" width="185" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" vertex="1" parent="1">
-          <mxGeometry x="290" y="630" width="190" height="60" as="geometry" />
+          <mxGeometry x="290" y="650" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-7" value="&lt;div&gt;&lt;i&gt;131 with coagulation markers level beyond the range of&amp;nbsp; three standard&amp;nbsp; deviations&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
-          <mxGeometry x="295" y="630" width="185" height="50" as="geometry" />
+          <mxGeometry x="295" y="650" width="185" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" vertex="1" parent="1">
-          <mxGeometry x="510" y="630" width="190" height="60" as="geometry" />
+          <mxGeometry x="510" y="650" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-9" value="&lt;div&gt;&lt;i&gt;191 with coagulation markers level beyond the range of&amp;nbsp; three standard&amp;nbsp; deviations&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
-          <mxGeometry x="515" y="630" width="175" height="50" as="geometry" />
+          <mxGeometry x="515" y="650" width="175" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
