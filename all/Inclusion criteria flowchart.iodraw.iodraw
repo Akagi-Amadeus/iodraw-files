@@ -111,10 +111,10 @@
           <mxGeometry x="295" y="650" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" vertex="1" parent="1">
-          <mxGeometry x="750" y="470" width="190" height="60" as="geometry" />
+          <mxGeometry x="510" y="650" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-9" value="&lt;div&gt;&lt;i&gt;132 with coagulation biomarkers level beyond the range of&amp;nbsp; three standard&amp;nbsp; deviations&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
-          <mxGeometry x="755" y="470" width="195" height="50" as="geometry" />
+          <mxGeometry x="515" y="650" width="195" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
