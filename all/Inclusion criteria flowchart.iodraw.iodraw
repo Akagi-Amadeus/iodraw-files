@@ -39,7 +39,7 @@
           <mxGeometry x="180" y="470" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" parent="1" vertex="1">
-          <mxGeometry x="370" y="370" width="190" height="60" as="geometry" />
+          <mxGeometry x="360" y="360" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-20" value="&lt;i&gt;1 withdrew&lt;/i&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;i&gt;4,142 without preoperative&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;coagulation markers data&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" parent="1" vertex="1">
-          <mxGeometry x="380" y="370" width="180" height="50" as="geometry" />
+          <mxGeometry x="370" y="360" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0C5E0;" parent="1" vertex="1">
           <mxGeometry x="170" y="732" width="190" height="50" as="geometry" />
