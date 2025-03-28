@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Dx1POc4wxIQYntN3guOY">
-    <mxGraphModel dx="475" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="331" dy="183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-20" value="&lt;i&gt;1 withdrew&lt;/i&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;i&gt;4,142 without preoperative&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;coagulation markers data&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" parent="1" vertex="1">
-          <mxGeometry x="380" y="370" width="180" height="50" as="geometry" />
+          <mxGeometry x="380" y="370" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B0C5E0;" parent="1" vertex="1">
           <mxGeometry x="170" y="702" width="190" height="50" as="geometry" />
