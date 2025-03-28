@@ -89,7 +89,7 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" parent="1" vertex="1">
           <mxGeometry x="390" y="510" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="HumzKH7u7ERblkjx4anl-47" value="&lt;i&gt;&amp;nbsp;783 had diseases related to coagulation&lt;/i&gt;&lt;div&gt;&lt;i&gt;132, 131, 191 with coagulation biomarkers level beyond the range of&amp;nbsp; three standard&amp;nbsp; deviations,&amp;nbsp;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;respectively&lt;br&gt;&lt;/i&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" parent="1" vertex="1">
+        <mxCell id="HumzKH7u7ERblkjx4anl-47" value="&lt;i&gt;&amp;nbsp;783 had diseases related to coagulation&lt;/i&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" parent="1" vertex="1">
           <mxGeometry x="395" y="510" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
@@ -114,7 +114,7 @@
           <mxGeometry x="510" y="650" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-9" value="&lt;div&gt;&lt;i&gt;191 with coagulation markers level beyond the range of&amp;nbsp; three standard&amp;nbsp; deviations&lt;/i&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" vertex="1" parent="1">
-          <mxGeometry x="515" y="650" width="195" height="50" as="geometry" />
+          <mxGeometry x="515" y="650" width="175" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
