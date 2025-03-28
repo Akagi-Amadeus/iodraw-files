@@ -69,22 +69,22 @@
           <mxGeometry x="630" y="740" width="170" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#7b9cc9;" parent="1" vertex="1">
-          <mxGeometry x="213.75" y="802" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="213.75" y="791" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-36" value="PT" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="230" y="803" width="70" height="28" as="geometry" />
+          <mxGeometry x="230" y="792" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#7B9CC9;" parent="1" vertex="1">
-          <mxGeometry x="438.75" y="802" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="438.75" y="791" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-39" value="aPTT" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="455" y="803" width="70" height="28" as="geometry" />
+          <mxGeometry x="455" y="792" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#7B9CC9;" parent="1" vertex="1">
-          <mxGeometry x="663.75" y="801" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="663.75" y="790" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-41" value="Fibrinogen" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="680" y="802" width="70" height="28" as="geometry" />
+          <mxGeometry x="680" y="791" width="70" height="28" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" parent="1" vertex="1">
           <mxGeometry x="390" y="540" width="190" height="50" as="geometry" />
