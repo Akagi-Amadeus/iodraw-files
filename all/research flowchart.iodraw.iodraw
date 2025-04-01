@@ -76,7 +76,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-15" value="1. Quality Control 2. Imputation 3. GLM model" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="224.5" y="97.75" width="236" height="25.5" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-16" value="GWAS sumstats N~7900" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-16" value="GWAS sumstats N~9400" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="284.75" y="135.5" width="113.5" height="19" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-20" value="BBJ GWAS&lt;div&gt;N=58,110&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;37,767&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; 18,348&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
@@ -143,7 +143,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-44" target="YhOF1UpB8yOIJ0JcrWhs-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats N=66,009 45,667 26,188&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;fillColor=#EBD2CF;" parent="1" vertex="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats N=67,533 45,667 26,188&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;fillColor=#EBD2CF;" parent="1" vertex="1">
           <mxGeometry x="254" y="242.5" width="176" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=west;" parent="1" vertex="1">
