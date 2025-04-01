@@ -143,7 +143,7 @@
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-44" target="YhOF1UpB8yOIJ0JcrWhs-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats N=67,533 45,667 26,188&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;fillColor=#EBD2CF;" parent="1" vertex="1">
+        <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats N=67,533 47,200 26,188&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;fillColor=#EBD2CF;" parent="1" vertex="1">
           <mxGeometry x="254" y="242.5" width="176" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;direction=west;" parent="1" vertex="1">
