@@ -38,7 +38,7 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-18" value="10,539 participants" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" parent="1" vertex="1">
           <mxGeometry x="180" y="470" width="170" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="HumzKH7u7ERblkjx4anl-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" parent="1" vertex="1">
+        <mxCell id="HumzKH7u7ERblkjx4anl-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="360" y="362" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LB8pqVijnyk0-pS6fZi0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endSize=4;" parent="1" edge="1">
@@ -86,7 +86,7 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-41" value="Fibrinogen" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="680" y="802" width="70" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="HumzKH7u7ERblkjx4anl-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ECF2F9;" parent="1" vertex="1">
+        <mxCell id="HumzKH7u7ERblkjx4anl-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="390" y="540" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-47" value="&lt;i&gt;&amp;nbsp;956 had diseases related to coagulation&lt;/i&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=left;" parent="1" vertex="1">
