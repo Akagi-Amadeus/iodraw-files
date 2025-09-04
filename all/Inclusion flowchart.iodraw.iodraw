@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8MDNABvzfaCTW8Z-48xv-1" value="&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Liver diseases : 946 participants&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;leukemia:4 participants&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;thrombocytopenia: 3 participants&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Times New Roman;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="530" y="439" width="220" height="90" as="geometry" />
+          <mxGeometry x="360" y="539" width="220" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
