@@ -141,7 +141,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="YhOF1UpB8yOIJ0JcrWhs-44" target="YhOF1UpB8yOIJ0JcrWhs-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="342" y="340" />
+              <mxPoint x="342" y="340" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-44" value="EAS population GWAS sumstats N=67,533 47,200 27,700&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;dashed=1;fillColor=#EBD2CF;" parent="1" vertex="1">
           <mxGeometry x="254" y="242.5" width="176" height="37.5" as="geometry" />
@@ -153,7 +158,7 @@
           <mxGeometry x="251.5" y="357.5" width="238.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-59" value="Muti-ancestry GWAS&lt;div&gt;N=198,455&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;84,070 170,492&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="271" y="363.75" width="150" height="20" as="geometry" />
+          <mxGeometry x="295.75" y="363.75" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YhOF1UpB8yOIJ0JcrWhs-62" value="IVW meta-analysis" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="350" width="150" height="20" as="geometry" />
