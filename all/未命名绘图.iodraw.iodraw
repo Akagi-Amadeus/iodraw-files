@@ -27,7 +27,7 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-3" value="Fine-mapping mapped 4 out of 5 loci:&amp;nbsp;&lt;b&gt;rs2726927,&amp;nbsp;rs4981026,&amp;nbsp;rs216315,&amp;nbsp;rs2706381&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="840" y="190" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r3Y3eC--TAG5gairxGo2-8" value="Gene-mapping found 4 genes(&amp;gt;=3 lines of evidence):&amp;nbsp;SCARA5,&amp;nbsp;VWF,&amp;nbsp;STAB2,&amp;nbsp;IL6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="r3Y3eC--TAG5gairxGo2-8" value="Gene-mapping found 4 genes(&amp;gt;=3 lines of evidence):&amp;nbsp;&lt;b&gt;SCARA5,&amp;nbsp;VWF,&amp;nbsp;STAB2&lt;/b&gt;,&amp;nbsp;IL6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="840" y="260" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
