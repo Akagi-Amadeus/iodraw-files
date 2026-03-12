@@ -4,14 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r3Y3eC--TAG5gairxGo2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-1" target="r3Y3eC--TAG5gairxGo2-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r3Y3eC--TAG5gairxGo2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-1" value="aPTT novel loci identified in Chinese cohorts:&amp;nbsp;&lt;b&gt;8p21.1 and&amp;nbsp;12q23.3&lt;/b&gt;&lt;div&gt;aPTT, fibrinogen novel loci in EAS: above +&amp;nbsp;&lt;b&gt;12p13.31;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;5q31.1 and&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;7p15.3&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="850" y="110" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-3" value="Fine-mapping mapped 4 out of 5 loci:&amp;nbsp;rs2726927,&amp;nbsp;rs4981026,&amp;nbsp;rs216315,&amp;nbsp;rs2706381" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="850" y="210" width="420" height="30" as="geometry" />
+          <mxGeometry x="840" y="210" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
