@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r3Y3eC--TAG5gairxGo2-1" value="aPTT novel loci identified in Chinese cohorts:&amp;nbsp;8p21.1&amp;nbsp;&lt;div&gt;EAS:&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="870" y="110" width="310" height="40" as="geometry" />
+        <mxCell id="r3Y3eC--TAG5gairxGo2-1" value="aPTT novel loci identified in Chinese cohorts:&amp;nbsp;8p21.1 and&amp;nbsp;12q23.3&lt;div&gt;aPTT, fibrinogen novel loci in EAS:&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="110" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
