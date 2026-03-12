@@ -24,7 +24,7 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-8" value="Gene-mapping found 4 genes(&amp;gt;=3 lines of evidence):&amp;nbsp;SCARA5,&amp;nbsp;VWF,&amp;nbsp;STAB2,&amp;nbsp;IL6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="835" y="250" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r3Y3eC--TAG5gairxGo2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.499;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-3" target="r3Y3eC--TAG5gairxGo2-8">
+        <mxCell id="r3Y3eC--TAG5gairxGo2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.547;entryY=0.244;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-3" target="r3Y3eC--TAG5gairxGo2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
