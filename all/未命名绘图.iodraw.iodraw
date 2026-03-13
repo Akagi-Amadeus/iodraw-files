@@ -72,7 +72,7 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="933.63" y="710" width="340.25" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r3Y3eC--TAG5gairxGo2-44" value="&lt;div&gt;MAGMA gene-set enrichment&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="r3Y3eC--TAG5gairxGo2-44" value="&lt;div&gt;MAGMA gene-set enrichment&lt;/div&gt;&lt;div&gt;Inflammation and coagulation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1029.75" y="715" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
