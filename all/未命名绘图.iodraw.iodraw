@@ -72,6 +72,9 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="933.63" y="710" width="340.25" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="r3Y3eC--TAG5gairxGo2-44" value="&lt;div&gt;Gene mapping results: TMEM147 TMEM147-AS1 in 19q13.12&lt;/div&gt;&lt;div&gt;ENTREP1 in 9q21.11, KCNN3 in 1q21.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="570" width="330" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
