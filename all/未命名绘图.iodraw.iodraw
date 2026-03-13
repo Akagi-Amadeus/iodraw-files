@@ -36,6 +36,9 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="350" width="420" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="r3Y3eC--TAG5gairxGo2-31" value="Gene-mapping found 4 genes(&amp;gt;=3 lines of evidence):&amp;nbsp;&lt;b&gt;SCARA5,&amp;nbsp;VWF,&amp;nbsp;STAB2&lt;/b&gt;,&amp;nbsp;IL6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="240" width="430" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
