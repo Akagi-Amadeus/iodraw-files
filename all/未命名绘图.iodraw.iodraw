@@ -5,57 +5,57 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r3Y3eC--TAG5gairxGo2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="260" width="420" height="40" as="geometry" />
+          <mxGeometry x="1033.75" y="210" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="190" width="410" height="30" as="geometry" />
+          <mxGeometry x="1033.75" y="140" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="100" width="410" height="60" as="geometry" />
+          <mxGeometry x="1033.75" y="50" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="190" as="targetPoint" />
+            <mxPoint x="1233.75" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-1" value="aPTT novel loci identified in Chinese cohorts:&amp;nbsp;&lt;b&gt;8p21.1 and&amp;nbsp;12q23.3&lt;/b&gt;&lt;div&gt;Consistent with Japan&#39;s GWAS —— meta&lt;br&gt;&lt;div&gt;aPTT, fibrinogen novel loci in EAS: above +&amp;nbsp;&lt;b&gt;12p13.31;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;5q31.1 and&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;7p15.3&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="850" y="100" width="400" height="60" as="geometry" />
+          <mxGeometry x="1033.75" y="50" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-3" value="Fine-mapping mapped 4 out of 5 loci:&amp;nbsp;&lt;b&gt;rs2726927,&amp;nbsp;rs4981026,&amp;nbsp;rs216315,&amp;nbsp;rs2706381&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="840" y="190" width="430" height="30" as="geometry" />
+          <mxGeometry x="1023.75" y="140" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-8" target="r3Y3eC--TAG5gairxGo2-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-8" value="Gene-mapping found 4 genes(&amp;gt;=3 lines of evidence):&amp;nbsp;&lt;b&gt;SCARA5,&amp;nbsp;VWF,&amp;nbsp;STAB2&lt;/b&gt;,&amp;nbsp;IL6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="840" y="265" width="430" height="30" as="geometry" />
+          <mxGeometry x="1023.75" y="215" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-3" target="r3Y3eC--TAG5gairxGo2-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="845" y="350" width="420" height="50" as="geometry" />
+          <mxGeometry x="1028.75" y="300" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-31" target="r3Y3eC--TAG5gairxGo2-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-31" value="&lt;div&gt;Link to trans-ancestry analysis&lt;/div&gt;These three loci in aPTT may be&amp;nbsp;a signal of East Asian independence ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="875" y="355" width="360" height="40" as="geometry" />
+          <mxGeometry x="1058.75" y="305" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="842.5" y="450" width="425" height="50" as="geometry" />
+          <mxGeometry x="1026.25" y="400" width="425" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-35" target="r3Y3eC--TAG5gairxGo2-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-35" value="&lt;div&gt;Trans-ancestry novel loci: PT:&lt;b&gt;1q21.3, 9q21.11&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Fibrinogen: &lt;b&gt;19q13.12&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="925" y="455" width="250" height="40" as="geometry" />
+          <mxGeometry x="1108.75" y="405" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="836.25" y="540" width="427.5" height="55" as="geometry" />
+          <mxGeometry x="1020" y="490" width="427.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-38" value="&lt;div&gt;Gene mapping results: TMEM147 TMEM147-AS1 in 19q13.12&lt;/div&gt;&lt;div&gt;ENTREP1 in 9q21.11, KCNN3 in 1q21.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="896" y="547.5" width="330" height="40" as="geometry" />
+          <mxGeometry x="1079.75" y="497.5" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
