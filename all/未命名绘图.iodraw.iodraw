@@ -45,8 +45,8 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="842.5" y="450" width="425" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r3Y3eC--TAG5gairxGo2-35" value="&lt;div&gt;Link to trans-ancestry analysis&lt;/div&gt;These three loci in aPTT may be&amp;nbsp;a signal of East Asian independence ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="360" width="360" height="40" as="geometry" />
+        <mxCell id="r3Y3eC--TAG5gairxGo2-35" value="&lt;div&gt;Trans-ancestry novel loci: PT:1q21.3, 9q21.11&lt;/div&gt;&lt;div&gt;Fibrinogen: 19q13.12&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="925" y="455" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
