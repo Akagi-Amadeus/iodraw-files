@@ -36,11 +36,17 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="350" width="420" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="r3Y3eC--TAG5gairxGo2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-31" target="r3Y3eC--TAG5gairxGo2-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-31" value="&lt;div&gt;Link to trans-ancestry analysis&lt;/div&gt;These three loci in aPTT may be&amp;nbsp;a signal of East Asian independence ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="875" y="355" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="842.5" y="430" width="425" height="50" as="geometry" />
+          <mxGeometry x="842.5" y="450" width="425" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r3Y3eC--TAG5gairxGo2-35" value="&lt;div&gt;Link to trans-ancestry analysis&lt;/div&gt;These three loci in aPTT may be&amp;nbsp;a signal of East Asian independence ?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="360" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
