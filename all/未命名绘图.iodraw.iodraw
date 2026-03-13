@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r3Y3eC--TAG5gairxGo2-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="690" width="388.88" height="220" as="geometry" />
+        </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-39" target="r3Y3eC--TAG5gairxGo2-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -74,9 +77,6 @@
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-44" value="&lt;div&gt;MAGMA gene-set enrichment&lt;/div&gt;&lt;div&gt;Inflammation and coagulation&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1029.75" y="715" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r3Y3eC--TAG5gairxGo2-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="690" width="388.88" height="220" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-45" value="PGS validation&lt;div&gt;Thrombotic diseases&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="932.51" y="830" width="120" height="60" as="geometry" />
