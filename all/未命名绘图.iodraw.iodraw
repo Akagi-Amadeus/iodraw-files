@@ -45,11 +45,14 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="842.5" y="450" width="425" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="r3Y3eC--TAG5gairxGo2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-35" target="r3Y3eC--TAG5gairxGo2-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-35" value="&lt;div&gt;Trans-ancestry novel loci: PT:&lt;b&gt;1q21.3, 9q21.11&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Fibrinogen: &lt;b&gt;19q13.12&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="925" y="455" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="842.5" y="540" width="427.5" height="55" as="geometry" />
+          <mxGeometry x="836.25" y="540" width="427.5" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
