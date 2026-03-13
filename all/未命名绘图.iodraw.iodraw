@@ -37,33 +37,30 @@
           <mxGeometry x="1370" y="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="350" width="420" height="40" as="geometry" />
+          <mxGeometry x="1300" y="260" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="280" width="410" height="30" as="geometry" />
+          <mxGeometry x="1300" y="190" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="190" width="410" height="60" as="geometry" />
+          <mxGeometry x="1300" y="100" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-24">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1660" y="280" as="targetPoint" />
+            <mxPoint x="1500" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-24" value="aPTT novel loci identified in Chinese cohorts:&amp;nbsp;&lt;b&gt;8p21.1 and&amp;nbsp;12q23.3&lt;/b&gt;&lt;div&gt;Consistent with Japan&#39;s GWAS —— meta&lt;br&gt;&lt;div&gt;aPTT, fibrinogen novel loci in EAS: above +&amp;nbsp;&lt;b&gt;12p13.31;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;5q31.1 and&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;7p15.3&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="190" width="400" height="60" as="geometry" />
+          <mxGeometry x="1300" y="100" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-25" value="Fine-mapping mapped 4 out of 5 loci:&amp;nbsp;&lt;b&gt;rs2726927,&amp;nbsp;rs4981026,&amp;nbsp;rs216315,&amp;nbsp;rs2706381&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="280" width="430" height="30" as="geometry" />
+          <mxGeometry x="1290" y="190" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-26" value="Gene-mapping found 4 genes(&amp;gt;=3 lines of evidence):&amp;nbsp;&lt;b&gt;SCARA5,&amp;nbsp;VWF,&amp;nbsp;STAB2&lt;/b&gt;,&amp;nbsp;IL6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="355" width="430" height="30" as="geometry" />
+          <mxGeometry x="1290" y="265" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="r3Y3eC--TAG5gairxGo2-25" target="r3Y3eC--TAG5gairxGo2-26">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r3Y3eC--TAG5gairxGo2-28" value="East Asian" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="150" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
