@@ -36,6 +36,9 @@
         <mxCell id="r3Y3eC--TAG5gairxGo2-18" value="Trans-ancestry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1370" y="60" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="r3Y3eC--TAG5gairxGo2-19" value="aPTT novel loci identified in Chinese cohorts:&amp;nbsp;&lt;b&gt;8p21.1 and&amp;nbsp;12q23.3&lt;/b&gt;&lt;div&gt;Consistent with Japan&#39;s GWAS —— meta&lt;br&gt;&lt;div&gt;aPTT, fibrinogen novel loci in EAS: above +&amp;nbsp;&lt;b&gt;12p13.31;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;5q31.1 and&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;7p15.3&lt;/span&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="190" width="400" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
