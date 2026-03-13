@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r3Y3eC--TAG5gairxGo2-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="70" width="460" height="580" as="geometry" />
+        </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="903.75" y="270" width="420" height="40" as="geometry" />
         </mxCell>
@@ -56,9 +59,6 @@
         </mxCell>
         <mxCell id="r3Y3eC--TAG5gairxGo2-38" value="&lt;div&gt;Gene mapping results: TMEM147 TMEM147-AS1 in 19q13.12&lt;/div&gt;&lt;div&gt;ENTREP1 in 9q21.11, KCNN3 in 1q21.3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="949.75" y="557.5" width="330" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r3Y3eC--TAG5gairxGo2-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="70" width="460" height="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
