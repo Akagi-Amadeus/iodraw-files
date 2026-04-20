@@ -135,7 +135,10 @@
           <mxGeometry x="360" y="539" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FsRrktUBYczC0srIF3JI-3" value="9,423 participants&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(6,310 CSAC participants,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-weight: 400;&quot;&gt;3,113 CSTC participants&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="920" width="170" height="55.5" as="geometry" />
+          <mxGeometry x="405" y="735" width="170" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FsRrktUBYczC0srIF3JI-4" value="9,423 participants&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(6,310 CSAC participants,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-weight: 400;&quot;&gt;3,113 CSTC participants&lt;/span&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="650" y="910" width="170" height="55.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
