@@ -10,7 +10,7 @@
         <mxCell id="HumzKH7u7ERblkjx4anl-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="250" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HumzKH7u7ERblkjx4anl-15" value="12,957 participants with imputed genotype data (9,226 CSAC participants, 3,731 CSTC participants)" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=13;align=center;" parent="1" vertex="1">
+        <mxCell id="HumzKH7u7ERblkjx4anl-15" value="12,957 participants with imputed genotype data (9,226 CSAC participants, 3,731 CSTC participants)" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="180" y="250" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HumzKH7u7ERblkjx4anl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=4;" parent="1" source="HumzKH7u7ERblkjx4anl-17" target="HumzKH7u7ERblkjx4anl-28" edge="1">
